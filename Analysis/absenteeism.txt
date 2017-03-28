@@ -1,0 +1,5 @@
+	The seven classes were offered in two formats: summer and year-round. The summer option was added in 2014, and a total of {summer} students went for this option ({summer_share}%). The year-round format hosted a total of {year} students ({year_share}%).
+
+	Year-round students met on Sunday afternoons once a month, seven times a school year, for two school years. The scope of this study only includes students who at least started the second year of the program. No such half-way cut-off exists for summer students.
+
+	The method for counting absences is one point for every day a teacher marks a student as tardy or as an early-leaver, and 2 points for full absences.

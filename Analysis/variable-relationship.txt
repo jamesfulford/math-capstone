@@ -1,0 +1,3 @@
+	The coefficient of linear correlation is {r}.
+
+	Approximately {explain-share}% of the variation in {var1} can be accounted for by variations in {var2}. Similarly, {explain-share}% of the variation in {var2} can be accounted for by variations in {var1}.
