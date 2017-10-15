@@ -1,0 +1,1 @@
+	When doing this analysis, {count_cohorts} subsets of the dataset were also analyzed to see if they behaved differently compared to one another and the full dataset. These cohorts are enumerated in the following table:

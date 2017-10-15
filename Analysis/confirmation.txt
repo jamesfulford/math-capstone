@@ -1,0 +1,3 @@
+	A student is considered confirmed if they attended the St. Elizabeth Seton confirmation ceremony the same year the final class occurred. The reason for this strict definition is because some students delayed by a year or were confirmed in another parish. In general, the program had unusually high completion rates.
+
+	In total, {confirmed} students were confirmed ({confirmed_share}%) and {not_confirmed} were not confirmed ({not_confirmed_share}%).

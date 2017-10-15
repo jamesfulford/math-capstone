@@ -1,0 +1,3 @@
+	What qualifies as a volunteering event is left to the discretion of the program coordinator. Mostly, volunteering events consisted of visiting nursing homes, committing hours at food pantries/soup kitchens, or helping with parish events (dinners, youth programs, etc.) Longer volunteering events occasionally counted for more.
+
+	Of the {not_confirmed} who did not get confirmed, {non_conf_no_vol} did not have volunteering records on file. This hole in the data is why this paper cannot not use volunteering data as a predictor of program completion. The {non_conf_with_vol} that did have volunteering records may have been confirmed in later years or in different parishes.

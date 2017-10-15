@@ -1,0 +1,1 @@
+	The mean is {mean}. At a {confidence} level of confidence, the population mean is within the interval of {cfd_int}.
